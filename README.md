@@ -21,5 +21,5 @@ curl -o install.sh -L https://raw.githubusercontent.com/Martian1337/pd-install/m
 
 2. Run script with WGET:
 ```bash
-wget https://raw.githubusercontent.com/Martian1337/CyberDeck/main/install.sh -O pd.sh && chmod +x pd.sh && ./pd.sh
+wget https://raw.githubusercontent.com/Martian1337/pd-install/main/pd.sh -O pd.sh && chmod +x pd.sh && ./pd.sh
 ```
